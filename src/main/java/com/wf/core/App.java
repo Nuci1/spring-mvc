@@ -2,7 +2,7 @@ package com.wf.core;
 
 //testing git commit
 /**
- * Hello world!
+ * GIT spring  simple programHello world!
  *
  */
 public class App 
